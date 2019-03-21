@@ -1,0 +1,56 @@
+Admin Page
+http://173.8.145.131:8080/wlmp/html/index.html
+App Login
+userid: loaner
+password: welcome123
+
+
+Apple Account
+ashe@betaar3.com
+Barons11
+
+.ashe@betaar3.com
+iPad UDID
+60897e576b109f52f753793644532f8c8454638a
+
+https://itunes.apple.com/us/app/lmp-loaner-management-program/id1452306197?ls=1&mt=8
+
+
+http://198.27.98.210:8080/lmp/jsp/Login.jsp?userId=loaner&password=welcome123
+user id or password is in correct 
+Remember Me
+Logout 
+forget password 
+
+it has to be automated
+we can make it e mail based instead of text 
+SMS
+once u r giving option for Forgot password than u have to be give option for registration 
+
+
+Registration
+user will enter name, mobile No , email and submit .. a email will trigger for user authetication 
+
+
+name, mobile No , email and password submit
+so user id is user email 
+
+registration page----> submitted registration page ---> screen with message ---> authticate acount on email 
+
+for login 
+http://198.27.98.210:8080/lmp/jsp/moblogin.jsp?userId=loaner&password=welcome123
+
+for executive registration : 
+http://198.27.98.210:8080/lmp/jsp/executive_regis.jsp?name=test&mob=123&email=loaner&pass=welcome123
+admin will register executive 1st ... than executive will download the apps and regiuster from mobile 
+so if there is no executive entry in DB from admin side .. executive can not registerer
+
+
+do you want to logout "YES" "NO"
+
+
+
+Then I make totally login,signup, forgot password, email authentication and main web page, and  then email with smilies sending to every clients after invoice is sent or fixed time.
+
+
+register the response of e mail and create a report
